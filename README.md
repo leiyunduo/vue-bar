@@ -8,6 +8,8 @@
 # install dependencies
 npm install
 
+npm i element-ui -S
+
 # serve with hot reload at localhost:8080
 npm run dev
 
